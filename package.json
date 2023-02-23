@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/ear-create-s4bc5.figma-tokens-lehhibwz",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve xfLrhgzCMYJ9Ad4mX6px --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
